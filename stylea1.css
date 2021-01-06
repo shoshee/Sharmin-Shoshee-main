@@ -1,0 +1,141 @@
+body{
+    font-family: 'Poppins', sans-serif;
+    margin:0px;
+}
+.navbar ul{
+    list-style: none;
+    padding: 0px;
+    margin: 0px;
+    text-align: right;
+
+}
+.navbar li{
+    display: inline-block;
+
+}
+.navbar a{
+    text-decoration: none;
+    color: black;
+    width: 100px;
+    padding: 25px 20px;
+    float: left;
+    font-weight: 550;
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 14px;
+    text-align: center;
+}
+.navbar a:hover{
+    background-color: darkturquoise;
+}
+.orange-highlight{
+    color:rgb(82, 57, 243);
+}
+h1{
+    font-size : 40px;
+}
+h2{
+    font-size: 30px;
+}
+
+p{
+    color: dimgray;
+}
+section{
+    height:500px;
+    padding-bottom: 190px;
+}
+.half-width{
+    width: 40%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.half-width img{
+    width:100%;
+}
+.link-button{
+    text-decoration: none;
+    background-image: linear-gradient(75deg, lightsalmon, tomato);
+    padding: 10px 15px;
+    border-radius: 5px;
+    color: floralwhite;
+    font-weight: 600;
+}
+#highlight{
+    text-align: center;
+    color: dodgerblue;
+    position: center;
+    margin-left: 38%;
+}
+.one-third-width{
+    width: 25%;
+    float:left;
+    margin-left: 5%;
+    padding-left: 2%;
+}
+.previous-work{
+    box-shadow: 10px 10px 40px grey;
+    background-color: seashell;
+    border-radius: 15px;
+}
+.third-part .previous-work img{
+    width: 100%;
+}
+.last-part{
+    height: 300px;
+}
+
+.work-side{
+    background-image: url("Group_33094_1.png");
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    width: 907px;
+    height: 225px;
+    top: 50%;
+    left: 50%;
+    margin: auto;
+    margin-top: 220px;
+    
+}
+
+.work-side h1{
+    font-weight: 700px;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    padding-top: 50px;
+    padding-left: 30px;
+    color: rgba(255, 255, 255, 0.781);
+    
+
+}
+
+.chat-button{
+    text-decoration: none;
+    background-image: linear-gradient(180deg,lightsalmon,tomato);
+    border-radius: 10px;
+    color: white;
+    font-weight: 700;
+    font-family: Arial, Helvetica, sans-serif;
+    margin: auto;
+    padding: 15px 20px;
+    margin-left: 650px;
+}
+footer h1{
+    text-align: center;
+    color: grey;
+    font-size: 14px;
+}
+footer h3{
+    text-align: center;
+    color: grey;
+    font-size: 12px;
+}
+.link-image{
+    position: center;
+    padding-left: 580px;
+    padding-bottom: 200px;
+}
+
+
